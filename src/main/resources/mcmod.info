@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autoterra",
+  "name": "Auto Terra",
+  "description": "reee",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XboxBedrock"],
+  "credits": "xboxbedrock the idiot",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
